@@ -1,4 +1,4 @@
-#  Panjab University Admissions AI Chatbot (RAG)
+#  RAG Based Chatbot for Panjab University Website
 
 ### Overview
 This project presents a **Retrieval-Augmented Generation (RAG)** chatbot designed to streamline the admission process for Panjab University (PU). By bridging the gap between static documents and dynamic student queries, this AI assistant helps prospective students and faculty access accurate information from over **50+ official PDF handbooks** and web notices instantly.
@@ -11,8 +11,8 @@ This project presents a **Retrieval-Augmented Generation (RAG)** chatbot designe
 ---
 
 ### Interface Preview
-([<img width="900" height="400" alt="Screenshot 2026-02-10 193432" src="https://github.com/user-attachments/assets/2b3e94de-0a6d-47f8-b12c-088db68e1105" />](https://github.com/ankushwadhwa05/Func/blob/main/Screenshot%202026-02-10%20193432.png?raw=true)
-)
+[<img width="900" height="400" alt="Screenshot 2026-02-10 193432" src="https://github.com/user-attachments/assets/2b3e94de-0a6d-47f8-b12c-088db68e1105" />](https://github.com/ankushwadhwa05/Func/blob/main/Screenshot%202026-02-10%20193432.png?raw=true)
+
 
 > *The Streamlit interface providing real-time, context-aware answers to admission queries.*
 
